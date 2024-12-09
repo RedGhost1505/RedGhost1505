@@ -3,7 +3,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedGhost1505&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RedGhost1505&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGhost1505&layout=compact&theme=synthwave" alt="Anurag's GitHub stats" height="195"/>
 </div>
 <div align="center">
   <img src="https://github.com/RedGhost1505/RedGhost1505/blob/output/github-snake-dark.svg" alt="snake gif"/>
