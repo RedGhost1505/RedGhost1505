@@ -43,3 +43,15 @@ Thanks for checking out my profile! Feel free to explore my work, and don’t he
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGhost1505&layout=compact&theme=synthwave" alt="Anurag's GitHub stats" height="195"/>
 </div>
+<br/>
+<h2 align="center">🏆Let's go !!🏆</h2>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RedGhost1505&theme=dracula&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+<br/>
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=RedGhost1505&icon=0&color=6" alt="Buy Me A Coffee" 
+    style="height: 26px !important; margin-top: 10px !important; margin-bottom: 30px !important;"
+      />
+</div>
