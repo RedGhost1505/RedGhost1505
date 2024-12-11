@@ -51,7 +51,13 @@ Thanks for checking out my profile! Feel free to explore my work, and don’t he
 </div>
 <br/>
 <div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedGhost1505&radius=16&theme=react&area=true&order=5"/>
+</div>
+<br/>
+<div align="center">
     <img src="https://visitcount.itsvg.in/api?id=RedGhost1505&icon=0&color=6" alt="Buy Me A Coffee" 
     style="height: 26px !important; margin-top: 10px !important; margin-bottom: 30px !important;"
       />
 </div>
+
+
